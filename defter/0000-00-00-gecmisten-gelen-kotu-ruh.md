@@ -2,6 +2,8 @@ Imagine Dragons'un 2012 tarihli Night Visions albümünden. Tanımlamakta zorlan
 
 Mormonizm baya tartışmalı bir din. Hıristiyanlığın ilginç bir yorumu, bir bakıma new age dinlerin atası 1830'da kurulmuş. Mormonizm'in kurucusu Joseph Smith eski çağlarda Amerika kıtasında yaşamış kişiler tarafından yazılmış gömülü altın levhaları sihirli taşlar kullanarak çeviriyor. Mormon kitabı böyle doğuyor.
 
+Şarkının sözlerinde şöyle bir kısım var:
+
 ~~~
 When you feel my heat
 Look into my eyes
@@ -9,9 +11,7 @@ It's where my demons hide
 It's where my demons hide
 ~~~
 
-
-* Geçmişten gelen kötü ruh Jungian psikoloji
-
+Şeytan kavramı özellikle dini düşüncede biraz farklı bir yere oturuyor.
 
 * https://www.youtube.com/watch?v=6JzkarnXZLg
 
