@@ -2,6 +2,7 @@
 layout: post
 title: "Mongolian Rider On An Open Field"
 categories: art
+mypage: center
 img : https://derinmavi.io/images/steh-auf.png
 ---
 
