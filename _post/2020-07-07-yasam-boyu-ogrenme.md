@@ -3,7 +3,7 @@ layout: post
 title: Yaşam Boyu Öğrenme
 description: 
 img: research_summaries_2.jpg
-category: Hayata Dair
+category: life
 ---
 
 
