@@ -70,14 +70,10 @@
        <h1 class="xld">Tozbulut</h1>
           <div style="margin-top:30px;margin-left: 15px;">
 
-<div class="sda"><a href="https://tozbulut.github.io/sanat/2019/10/26/bienal-izlenimleri.html" class="sdx">/bienal-izlenimleri</a></div>
-<div class="sda"><a href="https://tozbulut.github.io/kitap/2020/04/30/yeraltindan-notlar.html" class="sdx">/yeraltindan-notlar</a></div>
-<div class="sda"><a href="https://tozbulut.github.io/diary/2021/01/14/izlence.html" class="sdx">/izlence</a></div>
              {% for post in site.posts %}
-    <div class="sda">
-      <a href="{{ post.url }}" class="sdx">{{ post.title }}</a>
-    </div>
-  {% endfor %}
+                  <div class="sda"><a href="{{ post.url }}" class="sdx">{{ post.title }}</a></div>
+             {% endfor %}
+             
          </div>
     </div>
        </div>
