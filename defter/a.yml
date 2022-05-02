@@ -1,0 +1,151 @@
+- name: "Hipnotik Bir Anı" 
+  id: "0038"
+  desc: 'Doğa nasık da tuhaflıklarla dolu. Bunu bir köpeği izlerken bile müthiş bir deneyim yaşayabilirsiniz. Köpek yeri eşeler. Siz köpeği izlersiniz. Bir süre sonra eşelediği yerden bir şey çıkar. Bir şey bulmuştur. Siz onun orada olmasının algınız dışında olmasının ürütücü garipliğini hissedersiniz. Köpek senin farkedemediğin bir şeyi fark etmiştir. Algının dışındaki şey nasıl da anlamsız görünüyor. Köpeğin yeri eşeleyişine anlam atfetmedin. Ama bir şey buldu. Rastgele eşeliyor oynuyor sandın. Ama o bir şey çıkartır. Beklemediğiniz ölçüde şaşırtır.'
+
+- name: ""
+  id: "0037"
+  desc: "İhtimal dahilinde midir olmak şu günün muzafferi. Yarım günün? Belki de şu 3 saatin?"
+
+- name: ""
+  id: "0036"
+  desc: "Çelişen yanlarımızın bir çatışmaya girip kitlenmemesi. Bunun yerine çözümlenmesi."
+
+- name: ""
+  id: "0035"
+  desc: "Birşeyi söylerken karşındakine nasıl hissedeceğini de söyle. Bu ona yapılmış bir hizmettir. Kendi böyle hissetmeyi seçip seçmemeye karar verir zaten."
+
+- name: ""
+  id: "0034"
+  desc: "Birinin bir diğerinin içsel bunalımını sallamaması biraz komik. Tam da hayatın özünde olan bu... Hayatın espri anlayışı."
+
+- name: "Esas Kaybeden"
+  id: "0033"
+  desc: "Herkesi kendi dramasında bir kaybeden olarak görmekten geri kalmıyoruz.<br>Ama nihai oyun için...<br>Nezaketi olmayanlar.<br>Onların hiçbir hakkı yoktur."
+
+- name: "Fair Weather"
+  id: "0032"
+  desc: "<blockquote>Fair weather makes no sailor.</blockquote>"
+
+- name: "Athena"
+  id: "0031"
+  desc: "A mockery about exercising interestingly involves with a made up prayer.<br><blockquote>Athena herself has blessed me.<br>No one can defeat me.<br>Fire runs through my blood.<br>My bones crafted from steal.<br>Tremble, mortals I shall live forever. - From Twitter</blockquote>"
+
+- name: "Bir Kafede Oturmuşlar"
+  id: "0030"
+  desc: "Bir kafede oturmuşlar biri diğerini sorguya çekiyor.<br>Ben diyor ben sütüm çekilip kenara itiliyorum.<br>Diğeri ona güzelce açıklıyor. Kandırıldığı gibi kandırıyor.<br>Bu kandırılmış kuru karabalık pek bir şey ifade etmiyor."
+  tags: [Realist, Story, Dark]
+  
+- name: "Necessities"
+  id: "0029"
+  desc: "Basic necessities..<br>How fundemental they are? How they matter contrast to luxury?<br>There is a purification to focus them. Its beautiful though..."
+
+- name: "Günler"
+  id: "0028"
+  desc: "Bilmez misin günler bir şeyler için yapılır."
+  
+- name: "Balance"
+  id: "0027"
+  desc: "Where is the balance missing?<br>There's probably something wrong there."
+  desc2: "When you aim up. Its something. You are now above the mess. People will ridicule it. Maybe they are ridiculous."
+  category: ""
+
+- name: "What We Care"
+  id: "0026"
+  desc: "Among all what we care is important.<br>Our capacity is limits us.<br>Our attention is also limited.<br>Yet there is no shortage of negligence.<br>In our world as deadly as it is disengagement is everywhere.<br>People can ignore everything to colusion if they don't suffer from the consequences.<br>Today's economy is taking measures quickly.<br>For an app, a function that does not work directly means lost customers.<br>For a careless individual lets say if one can tolerate it, good luck to them!" 
+
+- name: "Advice - Alıntı"
+  id: "0025"
+  desc: "<blockquote>Be softer with you. You are a breathing thing. A memory to someone. A home to a life. - Nayirrah Waheed</blockquote>"
+
+- name: "Body And The Software"
+  id: "0023"
+  desc:  "Maybe we are upper souls directing that agent.<br>Agent consist of body and its software.<br>By itself it doesn't mean anyhing."
+
+- name: "Ölümü Anımsatmak"
+  id: "0022"
+  desc: "Nietzsche ne öğretir? Sıkıcı olan ölüme çeker. Onu anımsatır.<br>İnsan da bu sıkışmayı çözemezse yaşlandıkça ölüme çekebilir.<br>Ne yapıp et sıkıcı olma. Ölümü çağırıştıranlardan uzak dur.<br> Zihninin eskimesine izin verme."
+  
+- name: "Gizli Söz"
+  id: "0021"
+  desc: "Her şey heryerde söylenmez.<br>Gizli söz ile olur herşey.<br>Dar bir insan topluluğuna hitap eder.<br>Yalnızca takipcisine gider.<br>Takipçi hazır değilse arttırıcı olmayacaktır.<br>Arttırmak yerine azaltacaktır."
+
+- name: "Gurur"
+  id: "0020"
+  desc: "Kendinizi fazla önemsemek, ruhun bu hastalıklarına neden olur.<br>Günahların en büyüğüne düşmeksizin kendini fazla önemsemeyen birinin kafası asla bulanmaz.<br>Bu kendine özen göstermekten kaçınmak ya da çekingenlik anlamına gelmez."
+
+- name: "Dalga"
+  id: "0019"
+  desc: "İnsan ruhu dalgalanır.<br>Bu insan olmanın sıkıntılı taraflarından biri.<br>Kimi zaman zevk peşinde koşan,<br>kimi zaman istemediği bir iş yapmak zorunda kalan,<br>üzülen, sevinen, skor elde eden,<br>kendi reklamını yapan, göz boyayan.<br>Bizler bu ilkel dalgalanmanın dışında bulunmalıyız."
+
+- name: "Since Everybody Fails"
+  id: "0018"
+  desc:  "Since everybody fails please don't focus on your little mistakes.<br>Of course they count but nobody cares them in a short term.<br>Do what you can to make circumtances better now.<br>Dramatical act of showing weakness is not making it any better."
+
+- name: "Cleverness"
+  id: "0017"
+  desc: "They say nobody is dissatisfied with their cleverness.<br>But what did the unnamed minds of<br>Mad scientists with an extreme acuteness<br>Thats what you will see<br>in that practice."
+
+- name: "Korkular"
+  id: "0016"
+  desc: "Korkular... Bu gerçek dünya ile çoğu zaman bir ilgisi bulunmayan kurgusal, ilkel mekanizma sizi bağlar. "
+
+- name: "Entelektüelleştirmek"
+  id: "0015"
+  desc: "Gerekmedikçe hiçbirşeyi entelektüelleştirmemek gerekiyor.<br>Bazen bu yalnızca bir savunma mekanizması.<br>Gerçek dünyaya etkide bulunmaktansa onun karşısında donakalmak bunu da bilgiçlikle gizlemek yaygın bir problem.<br>Bilgiç görünmek ile gerçekten bilmek arasında fark var.<br>Ne nerd ol ne douchebag.<br>Bunu bilinçle yıkabilirsin ama bunun yarattığı öfke de içinde kalmamalı."
+
+- name: "Atfedilen Ağırlık"
+  id: "0014"
+  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerek.<br>Hele ki kötü eyleme duygusallığa kapılıp bir değer vermek iyilik adına yapılacak en son şey olacaktır.<br>Suç özünde ilgi çekici bir şey değildir.<br>Çoğu zaman insanlar trajedilerini kendileri yazarlar.<br>Komedi ve de trajedi...<br>Zenginlik ve fakirlik, güzellik ve çirkinlik.<br>Komik durumlar.<br>Bunlara yukarıdan bakmak gerekiyor sanıyorum.<br>Belki o zaman oyunu oynayan kişi olabiliriz."
+
+- name: "Yapılana Odaklanmak"
+  id: "0013"
+  desc: "İnsanların ne düşündüğünü anlamak çoğu zaman anlamak zor. Başka bir insanı bütünüyle anlamak ise neredeyse imkansız.<br>Yalnızca yapılana odaklanmalı belki de.<br>Kendimizi de ancak ne yaptığımız ile ifade edebiliriz.<br>Buna bir kesinlik atfedilebilir.<br>Yapılmış olanın yalanı yoktur."
+
+- name: "Arayı Bulmak"
+  id: "0012"
+  desc: "Hayatta çoğu zaman arabuluculuk etmeliyiz. İki uç arasında.<br>Bunlardan biri profesyonel çalışmamızın gereklerini yerine getirmek olabilir.<br>Çalışma insanı konsepti ile otantik kişiliğimizi birleştirmeliyiz.<br>Bunlar iki uç.<br>Birbirine zıt düşüyorlar bu gerçeği görmezden gelemeyiz.<br>Ama aralarında denge bulunmalı.<br>İnsan eğer nefes bölgelerini kapatmazsa zaten belirli düzeyde denge sağlanambilir.<br>Yalnızca belki de onu tabir-i caizse biraz ittirmeliyiz."
+
+- name: "İnsanların çoğu..."
+  id: "0011"
+  desc: "İnsanların çoğunun gerçekten ileriye bakan bir ilişkiyi kaldırabilecek duygusal ağırlığa sahip olduğunu düşünmek hata olur. Herşeyden önce ne istediğini kendi de bilmiyor olabilir. Kendini yeterince iyi ifade edemiyor olabilir. Sen onun yerine onu anlamalısın. Gerekirse onu kendinden daha iyi anlamalısın. Böylece ötekini gözardı etmeden her ikiniz için de karar verebilirsin."
+
+- name: "Motivation"
+  id: "0010"
+  desc: "We are a gift to the existence.<br>So we care. We care everything about ourselves.<br>Our look. Our body. Our habbits. Our clothes.<br>The things we eat. The way we talk.<br>Everything is meaningless don't care.<br>But if you care than every move has an absolute importance."
+
+- name: "Soulless"
+  id: "0009"
+  desc: "But It's hard to sense our soul. We are soulless in a way. Thinking like that can clear our perspective a little. At least it's not vain."
+
+- name: "Keep In Mind"
+  id: "0008"
+  desc: "Keep in mind this is what we are made of.<br>And there is a truth in it.<br>There is an acceleration.<br>Appereance gradually evolves.<br>Meat changes its form.<br>Aesthetics of body evolves through every physical activity.<br>Let the truth balance our weight.<br>Our teeth, our skin, our eyes. We sleep, we eat, we work.<br>We have a relationship with the external world. Connected."
+
+- name: "A Rare Breed"
+  id: "0007"
+  desc: "<blockquote>She was one of the rare ones, so effortlessly herself, and the world loved her for it. - Harper Lee, To Kill A Mockingbird</blockquote>"
+
+- name: "No Authenticity"
+  id: "0006"
+  desc: "Of course we are for the authenticity. But we should know the value of being above of everything. Never shouldn't underestimate it. Its pure."
+
+- name: "A Ghost"
+  id: "0004"
+  desc: "Philosophy, an argumented thought, is so powerfull that we associate it with the supernatural. A ghost that haunts people. Spirith of a strange kind. <blockquote>it's a dark philosophy and it haunts her constantly</blockquote>"
+  desctr: "Masalvari bir yaratık... İnsanları yakalayan bir hayalet. Garip çeşitten bir ruh."
+
+- name: "Motiveless"
+  id: "0003"
+  desc: "Act without attachment to the fruits of action.<br>Do what you have to do without seeking either evil or good from it.<br>Act without motive.<br>As long as we have a motive our actions.<br>They are not actions they are reactions.<br>They loose the will.<br>Be motiveless. Dont loose the will."
+
+- name: "A Kiss"
+  id: "0002"
+  desc: "A little kiss for this. A little kiss that. And a kiss for the occurence..."
+  
+- name: "Objects"
+  id: "0001"
+  desc: "Are we big enough to became nobody?<br>Big enough to became distant from ourselves...<br>And recognize outselves as mere objects.<br>Or agents maybe."
+
+- name: "Meta"
+  id: "0000"
+  desc: "Bununla ne yapmalı? Bu düşünceler düzenli hale getirildiğinde etkileri daha da güçlenebilir. Ayrıca herkesin fikri alınarak genellenebilir."
