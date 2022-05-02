@@ -71,11 +71,8 @@
           <div style="margin-top:30px;margin-left: 15px;">
 
              
-               {% for post in site.categories.main %}
-                {% if post.url %}
-                     <div class="sda"><a href="{{ post.url }}" class="sdx">{{ post.title }}</a></div>
-                {% endif %}
-               {% endfor %}
+                {{ content }}
+        
              
      
              
