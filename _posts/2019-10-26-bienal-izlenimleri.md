@@ -49,9 +49,8 @@ Bienal deneyimini kişiselleştirmek çok önemli. Kendince anlamlar çıkartıp
 Buradan alınan ilhamla insan kendini değiştirebilir. Kişisel deneyimizi zenginleştirmek demek bu ve bizler için bir serüvenin kapılarını açıyor. 
 Sanat eseri yeterince iyiyse zaten bizimle konuşuyor. Bize kendimizi anlatıyor.
 Değişmemiz için cesaret veriyor. Bu eserlerden bazılarının önünden hızlıca geçerken bazılarını ise saatlerce izlemek istedim. Bu da tam tamına aradığım kişisel tecrübeydi. 
-Bienal tanıtımında gördüğüm açıklamaların yanı sıra eserleri kendimce tanımlamaya, bir koleksiyoncu gibi onlarda ilgimi çeken imgeleri toparlamaya çalışıyorum.
-Doğru bulduğumuz şeyler üzerine yazmak onları keşfetmek kadar doğru bir şey yok. 
-Bunlar üzerinden bir temel inşa etmenin inanılmaz derecede pratik olduğunu düşünüyorum. Böylece onları kişiliğimiz yaparak onların birer sembolüne dönüşebiliriz.
+Bienal tanıtımında gördüğüm açıklamaların yanı sıra eserleri kendimce tanımlamaya, bir koleksiyoncu gibi onlarda ilgimi çeken imgeleri toparlamaya çalıştım.
+Doğru bulduğumuz şeyler üzerine yazmak onları keşfetmek bana yeni fikirler inşa etmemi sağladı. Bu şekilde insana bir fayda geldiğini düşünüyorum. İnsan kişiliğinin öznel parçaları olabilirler.
 
 ### Suzanne Treister - Bahçıvan HFT
 
@@ -60,8 +59,7 @@ Bunlar üzerinden bir temel inşa etmenin inanılmaz derecede pratik olduğunu d
    <div class="two column"></div>
 </div>
 
-Her bir bitki kartına gösterilen müthiş detay ilgi.
-İnsan konsantrasyonunun bu şekilde kullanılması.
+Her bir bitki kartına gösterilen müthiş detaylı ilgi. İnsan konsantrasyonunun bu şekilde kullanılması.
 Numeroloji, sanrı yaratan maddeler. Darren Aronofsky'nin Pi filmindeki gibi. Fakat komplo teorisyeni. Deliliğin sınırlarında. Burada bahsedilen high frequency trading de ilginç bir konu.
 
 > Sermayenin hareketleri sanrılar yaratır: Hem mevcut hem görünmez, eşit derecede gerçek ve hayalidirler.
@@ -106,6 +104,7 @@ Filmi İzlemek İçin:
 * https://vimeo.com/434339144
 
 ### Korakrit Arunanondchai - tarihle birlikte tuhaf isimli insanlarla dolu bir odada 4 
+
 *With history in a room filled with people with funny names 4, HD Video: 23’28”*
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
