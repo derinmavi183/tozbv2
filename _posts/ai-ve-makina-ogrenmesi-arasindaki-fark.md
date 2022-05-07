@@ -8,10 +8,18 @@ Bu ibare teknoloji gibi bir alanda konuşurken anlamlı.
 Eski bir makale ama makale temel tanımlardan ve tarihi gelişimden bahsettiğinden eski olması problem teşkil etmiyor.
 
 Günlük hayatta bu kelimeleri birbiri yerine bilmeden sıkça kullanılıyor.
-Pazarlama amaçlı buzzword kullanımı gerekli bilgi altyapısı barındırmadığından 
-Bu anlamda bir bilgisizlik kimi zaman hayret uyandırıcı hale gelebiliyor.
+Pazarlama amaçlı be gündelik yaşamda "buzzword" olarak kullanımı gerekli bilgi altyapısı barındırmadığından bu anlamda bir bilgisizlik kimi zaman bilen için hayret uyandırıcı bilmeyen için ise tehlikeli bir hale gelebiliyor.
 
 Bu yazı geri kalanı makalenin çevirisinden oluşmakta.
 
 ### Yapay Zeka ve Makina Öğrenmesi Arasındaki Fark Nedir?
 
+Yapay Zeka (AI) ve Makine Öğrenimi (ML) şu anda çok popüler iki terim ve genellikle birbirinin yerine kullanılıyor gibi görünüyor.
+
+Tamamen aynı şey olmasalar da, oldukları algısı bazen kafa karışıklığına yol açabilmekte. Bu yüzden aradaki farkı açıklamak için bir parça yazmaya değeceğini düşündüm.
+
+Kısaca, en iyi cevap şudur: (TD LR;)
+
+Yapay zeka daha geniş bir konsept Yapay Zeka, görevleri “akıllı” olarak kabul edeceğimiz şekilde gerçekleştirebilen daha geniş bir makine kavramıdır.
+
+Makine Öğrenimi, gerçekten sadece makinelere verilere erişim verebilmemiz ve onların kendileri için öğrenmelerine izin verebilmemiz gerektiği fikrine dayanan mevcut bir AI uygulamasıdır.
