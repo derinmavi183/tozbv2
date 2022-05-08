@@ -5,9 +5,9 @@ Pazarlama aşamasında veya gündelik yaşamda "buzzword" olarak kullanımı ger
 Bu anlamda bir bilgisizlik kimi zaman bilen için hayret uyandırıcı bilmeyen için ise tehlikeli bir hale gelebiliyor.
 Bu nedenle bu konuda bir yazı yazmanın anlamlı olabileceğini düşündüm.
 
-Yapay Zeka (AI) ve Makine Öğrenimi (ML) şu anda çok popüler iki terim. Yapay zeka makinaların zeka oluşturmakla ve insan davranışlarını simüle etmesi ile ilgilenirken makina öğrenmesi yapay zekanın bilgisayar sistemlerine verinin verilerek kendi kendilerine öğrenmesi sağlanıyor. Makina öğrenmesi yapay zekanın bir alt dalı olarak değerlendirilebilir. Bu iki terimin genellikle birbirinin yerine kullanılmasının sebebi birbirlerine yakın teknolojiler oluşundan kaynaklanıyor.
+Yapay Zeka (AI) ve Makine Öğrenimi (ML) şu anda çok popüler iki terim. Yapay zeka makinaların zeka oluşturmakla ve insan davranışlarını simüle etmesi ile ilgileniyor. Makina öğrenmesinde ise verinin sisteme yüklenerek sistemin bu veriden öğrenmesi sağlanıyor. Makina öğrenmesi yapay zekanın bir alt dalı olarak değerlendirilebilir. Yapay zeka ve makina öğrenmesi sıklıkla birbiri yerine kullanılıyor.
 
-Öncelikle kısa cevabı tekrar edeyim. (tl;dr)
+Öncelikle kısa cevabı tekrar edelim. (tl;dr)
 
 ```
 Yapay zeka makinaların zeka oluşturmakla ve insan davranışlarını simüle etmesi ile ilgilenir.
@@ -15,13 +15,13 @@ Makina öğrenmesinde ise bilgisayar sistemlerine veri verilerek makinanın arad
 Makina öğrenmesi yapay zekanın bir alt dalı olarak değerlendirilebilir.
 ```
 
-Peki yapay zeka ve makina öğrenmesi arasındaki fark ne?
-
 ### Yapay Zeka İçin Güzel Bir Kitap
 
-Yapay zeka ve makina öğrenmesi için çeşitli yaklaşımlar mevcut şu anda güncel olarak ders kitabı olarak alınan bir kitabı örnek alabiliriz diye düşünüyorum.
+Yapay zeka ve makina öğrenmesi için çeşitli yaklaşımlar mevcut. Yine çeşitli kitaplarda bu yaklaşımlara yer veriliyor. Aşağıdaki kitap derslerde okutulan yaygın bir kaynak:
 
-Artificial Intelligence: A Modern Approach (Prentice Hall Series in Artificial Intelligence) 
+* Artificial Intelligence: A Modern Approach (Prentice Hall Series in Artificial Intelligence) 
+
+Bu kaynaktan yola çıkarak bir yapay zeka
 
 ### Makina Öğrenmesi İçin Bir Örnek
 
