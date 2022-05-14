@@ -2,10 +2,10 @@ Yapay Zeka ve Makina Öğrenmesi Arasındaki Fark
 
 Günlük hayatta bu kelimeleri birbiri yerine bilmeden sıkça kullanılıyor.
 Pazarlama aşamasında veya gündelik yaşamda "buzzword" olarak kullanımı gerekli bilgi altyapısı barındırmayabiliyor. 
-Bu anlamda bir bilgisizlik kimi zaman bilen için hayret uyandırıcı bilmeyen için ise tehlikeli bir hale gelebiliyor.
+Bu anlamda bir yerde karşılaşılan hatalı bilgi bilen için hayret uyandırıcı bilmeyen için ise tehlikeli bir hale gelebiliyor.
 Bu nedenle bu konuda bir yazı yazmanın anlamlı olabileceğini düşündüm.
 
-Yapay Zeka (AI) ve Makine Öğrenimi (ML) şu anda çok popüler iki terim. Yapay zeka makinaların zeka oluşturmakla ve insan davranışlarını simüle etmesi ile ilgileniyor. Makina öğrenmesinde ise verinin sisteme yüklenerek sistemin bu veriden öğrenmesi sağlanıyor. Makina öğrenmesi yapay zekanın bir alt dalı olarak değerlendirilebilir. Yapay zeka ve makina öğrenmesi sıklıkla birbiri yerine kullanılıyor.
+Yapay Zeka (AI) ve Makine Öğrenimi (ML) şu anda çok popüler iki terim. Yapay zeka makinaların zeka oluşturmakla ve insan davranışlarını simüle etmesi ile ilgileniyor. Makina öğrenmesinde ise verinin sisteme yüklenerek sistemin bu veriden öğrenmesi sağlanıyor. Makina öğrenmesi yapay zekanın bir alt dalı olarak değerlendirilebilir. Yapay zeka ve makina öğrenmesi sıklıkla birbiri yerine kullanılsa da tamamen aynı disiplin değiller.
 
 Öncelikle kısa cevabı tekrar edelim. (tl;dr)
 
@@ -31,7 +31,6 @@ Yüzde seksenini sistemi eğitmek yüzde yirmisini ise test etmek için kullanı
 İnternette bunun için çeşitli veri setleri mevcuttur. Yukardaki örnek [Wine dataset](https://archive.ics.uci.edu/ml/datasets/wine)e ait. Veka gibi bir programla bu veriseti üzerinde analiz yapılabilir. Aynı örneği kanser hastaları için verebiliriz. 
 
 Verisetlerine örnek olarak örneğin kan ölçümü değerleri ve o hastanın daha sonra kanser olup olmadığı bilgisi olsun. Kandaki her bir değer ve hastaların kanser olup olmayacağını tahmin etmek örnek verilebilir.
-
 
 Bu konuda [bir yazı](https://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/?sh=575ab75b2742) Forbes'un internet sitesinde buluyor. 
 Dergi siteye makalenin 5 yıldan eski olduğu ile ilgili bir ibare koymuş.
