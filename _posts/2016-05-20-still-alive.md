@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Still Alive"
-categories: archive
+categories: [main, archive]
 img : https://derinmavi.io/images/still-alive.png
 ---
 
 2007 yapımı video oyunu Portal bittiğinde karşınıza [Still Alive](https://www.youtube.com/watch?v=36reZ9-3VK0) çıkıyor. 
 Oyun severleri arasında bir marşa dönüşen Still Alive hayat, ölüm, teknoloji, bilim, insanlık gibi bir çok tema barındırıyor. Yapay zeka GladOS’un oyunun ana karakteri Chell’e yazdığı bir "Test Değerlendirme Raporu" olarak kurgulanmış. 
 
-<img src="https://derinmavi.io/images/still-alive.png" alt="Still Alive" class="img-fluid">
+<img src="https://tozbulut.github.io/images/still-alive.png" alt="Still Alive" class="img-fluid">
 
 <!--more-->
 
