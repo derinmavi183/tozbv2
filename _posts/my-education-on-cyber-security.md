@@ -7,3 +7,6 @@ Only 5 turkish student in my term. Foreigner made a şnternational Day. These wa
 One of My friend was worried about these photo tookers and they are from Pakistan. Because my friend is Pakistan. 
 Tüm bunlar olurken Türkiye ekonomisi için zor bir yıl geçiyordu. Erdoğana arası iyi olan. Seçime doğru tansiyonun artmasından endişeliydi. 
 Askeri ücrete yapılan zam. 
+
+
+Tğrkiyede IT sektörünü etkiledi bu yurtdışı a gitme durumu. Hocalarımızın ağzından da duyduk. 
