@@ -20,4 +20,6 @@ We all have different problems families can be Best to that. Families can restri
 I also try to deterne and somehow Balance my Balance 
 
 
-My latest music choice
+
+
+Negativity on the internet.
