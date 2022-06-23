@@ -1,12 +1,16 @@
-My education on Cyber security
-Last year I started to masters program in Bahcesehir university İstanbul. 
-Program is called Cyber Security. 
-Türkiyedeki özel üniversitelerdeki eğitimin kalitesi baya tartışmalı bir konu. 
-Education was generally good and benefical. Bau has a lot of şnternational student. 
-Only 5 turkish student in my term. Foreigner made a şnternational Day. These was on the news. 
-One of My friend was worried about these photo tookers and they are from Pakistan. Because my friend is Pakistan. 
-Tüm bunlar olurken Türkiye ekonomisi için zor bir yıl geçiyordu. Erdoğana arası iyi olan. Seçime doğru tansiyonun artmasından endişeliydi. 
-Askeri ücrete yapılan zam. 
+## My Education on Cyber Security
+
+Last year I attnded to masters program in Bahcesehir university Istanbul.
+The program is called Cyber Security which can actually be called a sub-branch of Information Security.
+Cyber Security focuses on ensuring the security of computer systems. The increasing importance of cyber security has been effective in choosing this department.
 
 
-Tğrkiyede IT sektörünü etkiledi bu yurtdışı a gitme durumu. Hocalarımızın ağzından da duyduk. 
+
+The quality of education in private universities in Turkey is a controversial issue.
+Education was generally good and benefical. Bahcesehir University has a lot of international student.
+Only 5 Turkish students in my term. Foreigner made a International Day. These was on the news.
+One of My friend was worried about these photo takers and they are from Pakistan. Because my friend is Pakistan.
+While all this was going on, it was a difficult year for the Turkish economy.
+He was worried that tensions would rise towards the election.
+A raise to the minimum wage.
+This situation of going abroad has affected the IT sector in Turkey. We also heard it from our teachers.
