@@ -1,7 +1,6 @@
 ### Meditasyonlar
 
-
-Sanatın güzelliğine kanıp kendi hayatının güzelliğini unutma yasın. Kendi hayatında güzelliği bulamayanları gününü gördüğü yerdir. Çoktur böylelerini barındırır. Onların ahları oradadır.
+Sanatın güzelliğine kanıp kendi hayatının güzelliğini unutma. Kendi hayatında güzelliği bulamayanları gününü gördüğü yerdir. Çoktur böylelerini barındırır. Onların ahları oradadır.
 
 Geriye dönük bir olayı konuşuyorsun bir arkadaşınla diyelim. Konuşurken hatalarından pek utanmazsın. Yanlış yapılan işler değil yanlış ahlakla yapılan işler önemli olur. Birden ahlak önemli olur. İlginç her zaman devreye girmiyor ama böyle retrospektif bir anda yargılama yapıldığında devreye giriyor.
 
@@ -9,4 +8,4 @@ Gerçek trajedi seri üretim değil onu nasıl da bu denli içselleştirdiğimiz
 
 Bazen küçük ayrıntılara takılınır. Bunu ben de yapıyorum. Başka insanlar da. Halbuki hızla geçilecek şeylerdir bunlar. Mesela bir site oooh bir site tasarlıyorum diye heyecanlan çiz de çiz. Herşeyi yaz. Güzeldir fakat esas challenge bu değildir kendine challenge inşa etmememeli insan. Fakat içeriği de boşlamamalı.
 
-Teyzem mesela eğitim görmemiş bir insan. Ama büyük bir hayat bilgeliği var onda. Teyzendeki hayat bilgeliği temizliğidir. Kendinin olana sahip çıkışodor. Eşyalar böylece değerlenir. Eşya ile iletişim kurmış olur insan. 
+Kimi insanlar eğitim görmemiş olsalar da onlarda büyük bir hayat bilgeliğine rastlanır. Örneğin birinin bu hayat bilgeliği ince ince yaptığı temizliğidir. Kendinin olana sahip çıkışıdır. Böylelikle fakirlik ve eğitimsizlik kaybolur. Eşyalar böylece değerlenir. Eşya ile iletişim kurmuş olur insan. 
