@@ -9,7 +9,7 @@ Kısa süre öncesinde Kant üzerine kendi küçük araştırmamı yaparken yout
 Dr. Michael Sugrue Kant's Moral Philosophy videosu Kant üzerine bilgi sahibi olmak için çok güzel bir kaynak.Kısa sürede iyi bir fikir verdiğini düşünüyorum. 
 Bu nedenle videoyu çevirdim.
 
-<div style="border: 1px solid black; padding: 5px;">
+<div style="/* border: 1px solid black; */padding: 10px;margin-bottom: 2.5rem;border-radius: 3px;background-color: #d1e7dd42;">
 Dr. Michael Sugrue Kant's Moral Philosophy videosundan çevirilmiştir. 
 </div>
   
