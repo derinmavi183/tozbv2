@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Kant'ın Ahlak Felsefesi"
+categories: [main, archive]
+img : "https://tozbulut.github.io/images/still-alive.png"
+---
+
 Kısa süre öncesinde Kant üzerine kendi küçük araştırmamı yaparken youtube üzerinde değerli bulduğum bir kaynak keşfettim. 
 Dr. Michael Sugrue Kant's Moral Philosophy videosu Kant üzerine bilgi sahibi olmak için çok güzel bir kaynak.Kısa sürede iyi bir fikir verdiğini düşünüyorum. 
 Bu nedenle videoyu çevirdim.
