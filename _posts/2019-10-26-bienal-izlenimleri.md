@@ -75,7 +75,7 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
 ### Mika Rottenberg - Spagetti Blok Zinciri
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/images/spagetti.jpg" alt="Spagetti Blok Zinciri"/></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/spagetti.jpg" alt="Spagetti Blok Zinciri"/></div>
    <div class="two column"></div>
 </div>
 
