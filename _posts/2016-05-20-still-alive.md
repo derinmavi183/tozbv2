@@ -2,7 +2,7 @@
 layout: post
 title: "Still Alive"
 categories: [main, archive]
-img : https://tozbulut.github.io/images/still-alive.png
+img : "https://tozbulut.github.io/images/still-alive.png"
 ---
 
 2007 yapımı video oyunu Portal bittiğinde karşınıza [Still Alive](https://www.youtube.com/watch?v=36reZ9-3VK0) çıkıyor. 
