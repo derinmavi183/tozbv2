@@ -9,8 +9,10 @@ Kısa süre öncesinde Kant üzerine kendi küçük araştırmamı yaparken yout
 Dr. Michael Sugrue Kant's Moral Philosophy videosu Kant üzerine bilgi sahibi olmak için çok güzel bir kaynak.Kısa sürede iyi bir fikir verdiğini düşünüyorum. 
 Bu nedenle videoyu çevirdim.
 
+<div style="border: 1px solid black; padding: 5px;">
 Dr. Michael Sugrue Kant's Moral Philosophy videosundan çevirilmiştir. 
-
+</div>
+  
 Tartışmalı da olsa Kant’ın aydınlanma felsefesinin en önemli düşünürü olduğu söylenebilir. 
 
 Kant’ın Epistomolojik ve Ontolojik problemlere karşı yaklaşımı ayrı bir konu. Bu yaklaşım derin kıta rasyonalizminin içerisindeki trendlerin ve İngiliz empirisizminin bir sentezini oluşturuyor. 
