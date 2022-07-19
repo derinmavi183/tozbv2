@@ -7,12 +7,15 @@ img : "https://tozbulut.github.io/images/achilies_dark.png"
 
 Pianist Fazıl Say describes Achilles, the hero of the Trojan war, as agile, fast, rhythmic and deadly in his sonata for Troy. Say tells that he took these into consideration while writing the Achilles section of his work. And he adds: "On the back of the Iliad, the list of people Achilles has killed is three pages long. The list is written in lowercase and side by side. These are high-ranking soldiers and princes known only to Homer. Low-ranking soldiers and erler, who probably outnumbered Achilles' kills, were many. There were also soldiers and privates.”
 
-Peleusoğlu Akhileus Türkçe siyle Aşil Truva savaşının kahramanı, tüm yunan savaşçılarının en iyisi ve tanrıların favorisi. (break) 
+Peleusoğlu Akhileus Türkçe siyle Aşil Truva savaşının kahramanı, tüm yunan savaşçılarının en iyisi ve tanrıların favorisi. 
 
-İzmir’li yazar Homeros’un İlyada destanının ana karakteri Aşil’i Çinlisinden Hindistana lısına Arjantinlisinden Hollandalısına tüm insanlık biliyor ve öğrenciler insan vücudunun en güçlü tentonunu öğrenmek istediklerinde Aşil ismiyle karşılaşıyorlar. İnsanoğlunun aklında taşınarak günümüze ulaştırdığı mitlerin tuhaf dünyasından yanına aldığı bu yol arkadaşı onu tekrar tekrar dönüştürken Aşil insanın öldürücü doğaya ve kainata, adaletsizliğe ve yaşamın geçiciliğine karşı cevabı ve karşı konulmaz öfkesinin sembolü oluyor.
+İzmir’li yazar Homeros’un İlyada destanının ana karakteri Aşil’i Çinlisinden Hindistana lısına Arjantinlisinden Hollandalısına tüm insanlık biliyor ve öğrenciler insan vücudunun en güçlü tentonunu öğrenmek istediklerinde Aşil ismiyle karşılaşıyorlar. 
+
+İnsanoğlunun aklında taşınarak günümüze ulaştırdığı mitlerin tuhaf dünyasından yanına aldığı bu yol arkadaşı onu tekrar tekrar dönüştürken Aşil insanın öldürücü doğaya ve kainata, adaletsizliğe ve yaşamın geçiciliğine karşı cevabı ve karşı konulmaz öfkesinin sembolü oluyor.
 
 Topuğundan vurulduğu Meşhur ölümü İlyada da yer almıyor. Başka bir destanda yer alacak. Tanrılar Akhileus'dan yana, Zeus ve Athena ondan yana, Apollo Ares ve Afrodit ise Truva tarafındalar.
-Akhileus da savaşın başında yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalacak. Geri dönmek isteyecek. Sonradan ortaya çıkarak ortalığı kan gölüne döndürecek. Aşil'in bu tahmin edilemezliği ve yenilmezliği, tanrısal bir yandan da epik ağırlığı içsel çekişmeleri olan bir kahraman karakteri çiziyor. Tüm yunan savaşçılarının en iyisi ama ölecek. Kaderi bir bakıma mühürleniyor. Kendisi de onurlu ve yalnız bu yolu seçiyor. Bu da belirgin derin bir kahraman ağırlığı hissettiriyor.
+
+Akhileus da savaşın başında yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalacak. Geri dönmek isteyecek. Sonradan ortaya çıkarak ortalığı kan gölüne döndürecek. Aşil'in bu tahmin edilemezliği ve yenilmezliği, tanrısal bir yandan da epik ağırlığı içsel çekişmeleri olan bir kahraman çiziyor. Tüm yunan savaşçılarının en iyisi ama ölecek. Kaderi bir bakıma mühürleniyor. Kendisi de bu onurlu ve yalnız bu yolu seçiyor. Bu da eserde belirgin derin bir kahraman ağırlığı hissettiriyor.
 
 ### İlyada'dan Alıntı
 
