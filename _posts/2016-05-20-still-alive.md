@@ -14,6 +14,7 @@ Still Alive filmlerde sıkça karşılaşılan bir tema bir trophy olarak kötü
 
 GladOS'un "Test Değerlendirme Raporu" na yazdığı duygu barındıran sözler trajikomik bir yanda insani ya da duygusal olanın doğanın katı gerçekliği karşısındaki yabancılığını gösteriyor. Portal anlatısında GladOS Portal oyununa konu olan iki konum arasına portal açabilen silahı test ediyor.
 
+<pre>
 Bu bir zaferdi!
 Buraya not ediyorum.
 "Büyük Başarı" 
@@ -55,3 +56,4 @@ Harika hissediyorum ve hayattayım.
 Sen ölürken hala hayatta olacağım. 
 Sen öldüğünde hala hayatta olacağım. 
 Hala hayatta.
+</pre>
