@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Aşil; Seri Hızlı Ritmik ve Ölümcül"
+categories: [main, archive]
+img : "https://tozbulut.github.io/images/achilies_dark.png"
+---
+
 Pianist Fazıl Say describes Achilles, the hero of the Trojan war, as agile, fast, rhythmic and deadly in his sonata for Troy. Say tells that he took these into consideration while writing the Achilles section of his work. And he adds: "On the back of the Iliad, the list of people Achilles has killed is three pages long. The list is written in lowercase and side by side. These are high-ranking soldiers and princes known only to Homer. Low-ranking soldiers and erler, who probably outnumbered Achilles' kills, were many. There were also soldiers and privates.”
 
 Peleusoğlu Akhileus Türkçe siyle Aşil Truva savaşının kahramanı, tüm yunan savaşçılarının en iyisi ve tanrıların favorisi. (break) 
