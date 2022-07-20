@@ -3,6 +3,11 @@ layout: main
 title: Tozbulut
 ---
 
-<h5>Guides:</h5>
-
-<div class="sda"><a href="/archive/english/2022/02/02/on-an-open-field.html" class="sdx">Gym Guide</a></div>
+<h5 style="
+    font-size: 1.7rem;
+">🙙 Rehber 🙚</h5>
+{% for post in site.categories.guide %}
+       {% if post.url %}
+              <div class="sda"><a href="{{ post.url }}" class="sdx">{{ post.title }}</a></div>
+       {% endif %}
+{% endfor %}
