@@ -2,6 +2,7 @@
 layout: post
 title: "Still Alive"
 categories: [main, archive]
+kat: Sanat
 img : "https://tozbulut.github.io/images/still_alive23.png"
 ---
 
