@@ -7,7 +7,7 @@ img : "https://tozbulut.github.io/images/achilies_dark.png"
 
 Ilyada'yı okurken, destan bir şeyden emin olmanızı istiyor gibidir: Aşil’in öfkesi. İlk iki satırda verilen bu mesaj eser boyunca defalarca tekrarlanır.
 
-<div style="padding: 15px; margin-left: 15px; border: 1px solid #d7d7d7; font-size: 14px; font-family: monospace; margin-bottom: 2.5rem; white-space: pre-wrap;">Söyle, tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle,
+<div class="cerceve">Söyle, tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle,
 Acı üstüne acıyı Akhalara o kahreden öfke getirdi.
 </div>
 
@@ -28,8 +28,7 @@ Destanlar insanlık için ideal bir çocukluk olacak ki bilimi doğurdu. Bugün 
 İlyada Akhilleus’un topuğundan vurulduğu o ünlü ölümünü anlatmaz. Epik eser dokuz senelik bir savaşın elli bir gününü anlatan on kitaptan oluşur. Her bir kitabın kendince bir konu bütünlüğü barındırır. Destan boyunca Aşil ağırlığı hissedilse de eserin büyük kısmında görünmez. Hikaye Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister. Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Gazabından tanrılar bile kaçamaz. Aşil tahmin edilemezliği ve yenilmezliği ile müthiş bir epik kahramandır. Hikayenin başlarında annesi Thetis, Aşil'e bir kader seçimi yapması gerektiğini açıklar. Burada Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
 
 
-<pre style="padding: 15px;margin-left: 15px;border: 1px solid #d7d7d7;font-size: 14px;">
-Ilyada 9.410
+<div class="cerceve">Ilyada 9.410
 Anam, gümüş ayaklı Thetis bana demişti:
 İki ayrı kader götürecek beni ölüme:
 burda kalır, savaşırsam Troya'nın çevresinde,
@@ -37,14 +36,14 @@ tükenmez bir ün var, dönüş yok.
 Dönerserm yurduma sevigili baba toprağına
 ünüm olmasa da çok yaşayacağım,
 ölüm öyle çabucak gelip çatmayacak.
-</pre>
+</div>
 
 Aşil Truva'lıların şehrini almak için savaşmayı seçer. Böylelikle kaderi mühürlenmiş olur. Savaşacak, destansı biçimde ölecek ve sonsuza kadar hatırlanacaktır. Bugün İlya'danın binlerce yıl öncesinden gelen bu sesi "Aşil'i aklınızda tutun. Aşil'i hatırlayın" der gibidir.
 
 Sizce dikkate almalı mıyız?
 
 Ek:
-<pre style="padding: 15px;margin-left: 15px;border: 1px solid #d7d7d7;font-size: 14px;">
+<div class="cerceve">
 Ilyada 1.1
 Söyle tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle.
 Acı üstüne acıyı Akhalara o kahreden öfke getirdi,
@@ -70,7 +69,7 @@ Priamos'un ilini yerle bir edesiniz,
 sonra sağ salim dönesiniz evinize.
 Alın bu kurtulmalıkları, kızımı verin bana,
 korkun Zeus'un oğlu Apollon'dan, sayın onu.
-</pre>
+</div>
 
 Kaynaklar:
 * [İlyada - Türkiye İş Bankası Kültür Yayınları](https://www.amazon.com.tr/%C4%B0lyada-Hasan-Y%C3%BCcel-Klasikler-Dizisi/dp/6053321044)
