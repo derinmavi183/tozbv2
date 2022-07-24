@@ -3,6 +3,7 @@ layout: post
 title: "Kant'ın Ahlak Felsefesi"
 categories: [main, archive]
 img : "https://tozbulut.github.io/images/kant-paint2.jpg"
+kat: Felsefe
 ---
 
 Kısa süre öncesinde Kant üzerine kendi küçük araştırmamı yaparken youtube üzerinde değerli bulduğum bir kaynak keşfettim. 
