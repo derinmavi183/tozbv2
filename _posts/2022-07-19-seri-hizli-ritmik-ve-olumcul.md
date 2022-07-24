@@ -7,10 +7,10 @@ img : "https://tozbulut.github.io/images/achilies_dark.png"
 
 Ilyada'yı okurken, destan bir şeyden emin olmanızı istiyor gibidir: Aşil’in öfkesi. İlk iki satırda verilen bu mesaj eser boyunca defalarca tekrarlanır.
 
-```
+<pre style="background: #F7F6F3; border: none;">
 Söyle, tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle,
 Acı üstüne acıyı Akhalara o kahreden öfke getirdi.
-```
+</pre>
 
 Piyanist Fazıl Say, Truva için yazdığı Truva Sonatında savaşın kahramanı Aşil’i söyle tanımlıyor. 
 
@@ -28,12 +28,12 @@ Destanlar insanlık için ideal bir çocukluk olacak ki bilimi doğurdu. Bugün 
 
 İlyada Akhilleus’un topuğundan vurulduğu o ünlü ölümünü anlatmaz. Epik eser dokuz senelik bir savaşın elli bir gününü anlatan on kitaptan oluşur. Her bir kitabın kendince bir konu bütünlüğü barındırır. Destan boyunca Aşil ağırlığı hissedilse de eserin büyük kısmında görünmez. Hikaye Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister. Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Gazabından tanrılar bile kaçamaz. Aşil tahmin edilemezliği ve yenilmezliği ile müthiş bir epik kahramandır. Hikayenin başlarında annesi Thetis, Aşil'e bir kader seçimi yapması gerektiğini açıklar. Burada Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
 
-```
+<pre style="background: #F7F6F3; border: none;">
 Gümüş ayaklı tanrıça annem Thetis, iki yönlü bir kaderin beni ölümüme doğru sürüklediğini söylüyor. 
 Kalırsam ve Truvalıların şehrini almak için savaşırsam eve dönüş yok ama şöhretim sonsuza kadar kalacak. 
 Atalarımın ülkesindeki evime dönersem, şanlı bir ün olmayacak, 
 ancak uzun yaşayacağım ve ölümün azabı beni yakında bulamayacak.
-```
+</pre>
 
 Aşil Truva'lıların şehrini almak için savaşmayı seçer. Böylelikle kaderi mühürlenmiş olur. Savaşacak, destansı biçimde ölecek ve sonsuza kadar hatırlanacaktır. Bugün İlya'danın binlerce yıl öncesinden gelen bu sesi "Aşil'i aklınızda tutun. Aşil'i hatırlayın" der gibidir.
 
