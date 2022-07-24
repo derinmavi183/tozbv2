@@ -26,7 +26,7 @@ Aşil, Truva savaşının kahramanı. Kendisi gibi kral olan babası Peleus ve t
 
 Destanlar insanlık için ideal bir çocukluk olacak ki bilimi doğurdu. Bugün ise ilkel görülen ve romantizme atfedilen, mesafeli bakılan bu bakış eserin anıtsal etkisini azaltmıyor. Bugün yaşadığımız dünya o günlerden çok daha farklı. Teknoloji ile çevrili, amaçları belli, görece güvenli hayatlarımızda hayatta kalma tehditi altında değiliz. Hatalarımız ölümümüz demek değil, vahşi hayvanlarla dövüşmüyoruz, açlık ve düşmanlardan kaçmak gibi dertlerimiz yok. Tüm hayatta kalma dürtülerimiz, yaşam amaçlarımız sanallaşırken bu sanallık bizi hissizleştiriyor, risk almıyoruz ve kimi zaman anlamı - müzlerin şarkısını - yakalamakta zorlanıyoruz. Ilyada’nın ise anlam konusunda en ufak bir tereddütü yok. Bugün belki de bu kadar etkileyici bu kadar kanlı canlı olmasının sebebi bu.
 
-İlyada Akhilleus’un topuğundan vurulduğu o ünlü ölümünü anlatmaz. Epik eser on senelik bir savaşın elli iki gününü anlatan on kitaptan oluşur. Her bir kitabın kendince bir konusu var gibilir. Destan boyunca Aşil ağırlığı hissedilse de eserin büyük kısmında görünmez. Hikaye Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister.  Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Aşil tahmin edilemezliği ve tanrı vergisi yenilmezliği ile müthiş bir epik kahramandır. Hikayenin başlarında annesi Thetis, Aşil'e bir kader seçimi yapması gerektiğini açıklar. Burada Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
+İlyada Akhilleus’un topuğundan vurulduğu o ünlü ölümünü anlatmaz. Epik eser dokuz senelik bir savaşın elli bir gününü anlatan on kitaptan oluşur. Her bir kitabın kendince bir konu bütünlüğü barındırır. Destan boyunca Aşil ağırlığı hissedilse de eserin büyük kısmında görünmez. Hikaye Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister.  Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Aşil tahmin edilemezliği ve tanrı vergisi yenilmezliği ile müthiş bir epik kahramandır. Hikayenin başlarında annesi Thetis, Aşil'e bir kader seçimi yapması gerektiğini açıklar. Burada Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
 
 ```
 Gümüş ayaklı tanrıça annem Thetis, iki yönlü bir kaderin beni ölümüme doğru sürüklediğini söylüyor. 
@@ -40,5 +40,5 @@ Sizce dikkate almalı mıyız?
 
 
 Kaynaklar:
-* İlyada | Türkiye İş Bankası Kültür Yayınları
+* İlyada - Türkiye İş Bankası Kültür Yayınları
 * Fazıl Say ~ Truva Sonatı & İzmir Süiti • Troy Sonata & İzmir Suite - VII. Aşil • Achilleus  https://www.youtube.com/watch?v=5RJZ_NcxrBM&t=3165s
