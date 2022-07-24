@@ -7,8 +7,7 @@ img : "https://tozbulut.github.io/images/achilies_dark.png"
 
 Ilyada'yı okurken, destan bir şeyden emin olmanızı istiyor gibidir: Aşil’in öfkesi. İlk iki satırda verilen bu mesaj eser boyunca defalarca tekrarlanır.
 
-<div style="padding: 15px; margin-left: 15px; border: 1px solid #d7d7d7; font-size: 14px; font-family: monospace; margin-bottom: 2.5rem; white-space: pre-wrap;">
-Söyle, tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle,
+<div style="padding: 15px; margin-left: 15px; border: 1px solid #d7d7d7; font-size: 14px; font-family: monospace; margin-bottom: 2.5rem; white-space: pre-wrap;">Söyle, tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle,
 Acı üstüne acıyı Akhalara o kahreden öfke getirdi.
 </div>
 
