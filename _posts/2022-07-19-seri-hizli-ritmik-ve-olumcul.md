@@ -3,6 +3,7 @@ layout: post
 title: "Aşil; Seri Hızlı Ritmik ve Ölümcül"
 categories: [main, archive]
 img : "https://tozbulut.github.io/images/achilies_dark.png"
+kat: Sanat
 ---
 
 Ilyada'yı okurken, destan bir şeyden emin olmanızı istiyor gibidir: Aşil’in öfkesi. İlk iki satırda verilen bu mesaj eser boyunca defalarca tekrarlanır.
