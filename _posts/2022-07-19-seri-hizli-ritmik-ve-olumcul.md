@@ -16,7 +16,7 @@ Piyanist Fazıl Say, Truva için yazdığı Truva Sonatında savaşın kahraman�
 
 Çevik, hızlı, ritmik ve ölümcül
 
-Say, eserin Aşil bölümünde kahramanın bu özelliklerini dikkate alarak müziğe yansıtmayı seçmiş. Ayrıca Aşil'in öfkesini İlyada'yı referans vererek şu şekilde özetliyor: İlyada’nın arka kısmında, Aşil’in öldürdüklerinin listesi üç sayfa uzunluğunda verilir. Liste küçük harfle ve yan yana yazılmıştır. Anlatıya göre bunlar sadece Homeros’un bildiği yüksek rütbeli komutanlar ve prenslerdir. Muhtemelen bir o kadar da düşük rütbeli komutan ve asker vardı. Say sonrasında eserin bilinirliğine vurgu yapıyor.
+Say, eserin Aşil bölümünde kahramanın bu özelliklerini dikkate alarak müziğe yansıtmayı seçmiş. Ayrıca Aşil'in öfkesini İlyada'yı referans vererek şu şekilde özetliyor: İlyada’nın arka kısmında, Aşil’in öldürdüklerinin listesi üç sayfa uzunluğunda verilir. Liste küçük harfle ve yan yana yazılmıştır. Anlatıya göre bunlar sadece Homeros’un bildiği yüksek rütbeli komutanlar ve prenslerdir. Muhtemelen bir o kadar da düşük rütbeli komutan ve asker vardı. 
 
 İzmir’li yazar Homeros’un destanının ana kahramanını bugün Çin’den Hindistan’a, Arjantin’den Hollanda’ya tüm insanlık biliyor ve tüm dünyada öğrenciler insan vücudunun en güçlü tentonunu öğrenmek istediklerinde “Aşil” ismiyle karşılaşıyorlar.
 
