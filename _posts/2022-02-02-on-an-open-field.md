@@ -3,6 +3,7 @@ layout: post
 title: "Mongolian Rider On An Open Field"
 categories: [archive, english]
 img: "https://tozbulut.github.io/images/steh_auf2_.png"
+kat: Art
 ---
 
 Till Lindemann, a member of the Rammstein music group has a side project called [Lindemann](), which he founded in collaboration with Peter Tägtgren. [Steh Auf](https://www.youtube.com/watch?v=hiOjK992bPU) is one of the most successful tracks on the band’s F&M album in 2019. The song has a striking video clip. Steh Auf means wake up. Although the depressing lyrics of the song are written as a call of a child to a drug-addicted mother, the song in contrast extremely lively for the listener. The perspective and the visuals used by the clip's director Zoran Bihać makes the clip even more filled up with energy.
