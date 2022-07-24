@@ -57,7 +57,7 @@ erlerin başbuğu Atreusoğlu'yla tanrısal Akhilleus'un.
 
 Onları birbirine düşüren hangi tanrı?
 Apollon, Leto ile Zeus'un oğlu.
-Krala kızıp ordıya kıran salan o;
+Krala kızıp orduya kıran salan o;
 Atreusoğlu tanrının duacısı Khyrises'i saymadı diye.
 insanlar kırılıp gidiyordu birbiri ardı sıra.
 Khyrises kurtarmak için Akhaların elinden kızını.
@@ -69,7 +69,7 @@ daha çok orduları dizen Atreusoğlu'na yakarıyordu.
 Olympostaki yüce tanrılardan dilerim
 Priamos'un ilini yerle bir edesiniz,
 sonra sağ salim dönesiniz evinize.
-Alın bu kurtulmalıkları , kızımı verin bana,
+Alın bu kurtulmalıkları, kızımı verin bana,
 korkun Zeus'un oğlu Apollon'dan, sayın onu.
 </pre>
 
