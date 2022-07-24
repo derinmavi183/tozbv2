@@ -31,14 +31,14 @@ Destanlar insanlık için ideal bir çocukluk olacak ki bilimi doğurdu. Bugün 
 ```
 Gümüş ayaklı tanrıça annem Thetis, iki yönlü bir kaderin beni ölümüme doğru sürüklediğini söylüyor. 
 Kalırsam ve Truvalıların şehrini almak için savaşırsam eve dönüş yok ama şöhretim sonsuza kadar kalacak. 
-Atalarımın ülkesindeki evime dönersem, şanlı bir ün olmayacak, ancak uzun yaşayacağım ve ölümün azabı beni yakında bulamayacak.
+Atalarımın ülkesindeki evime dönersem, şanlı bir ün olmayacak, 
+ancak uzun yaşayacağım ve ölümün azabı beni yakında bulamayacak.
 ```
 
 Aşil Truva'lıların şehrini almak için savaşmayı seçer. Böylelikle kaderi mühürlenmiş olur. Savaşacak, destansı biçimde ölecek ve sonsuza kadar hatırlanacaktır. Bugün İlya'danın binlerce yıl öncesinden gelen bu sesi Aşil'i aklınızda tutun. Aşil'i hatırlayın der gibidir.
 
 Sizce dikkate almalı mıyız?
 
-
 Kaynaklar:
-* İlyada - Türkiye İş Bankası Kültür Yayınları
-* Fazıl Say ~ Truva Sonatı & İzmir Süiti • Troy Sonata & İzmir Suite - VII. Aşil • Achilleus  https://www.youtube.com/watch?v=5RJZ_NcxrBM&t=3165s
+* [İlyada - Türkiye İş Bankası Kültür Yayınları](https://www.amazon.com.tr/%C4%B0lyada-Hasan-Y%C3%BCcel-Klasikler-Dizisi/dp/6053321044)
+* [Fazıl Say ~ Truva Sonatı & İzmir Süiti • Troy Sonata & İzmir Suite - VII. Aşil • Achilleus](https://www.youtube.com/watch?v=5RJZ_NcxrBM&t=3165s)
