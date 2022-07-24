@@ -5,6 +5,10 @@
     border-right: 1px solid #fdfdfd;
 }
 
+.cerceve{
+    padding: 15px; margin-left: 15px; border: 1px solid #d7d7d7; font-size: 14px; font-family: monospace; margin-bottom: 2.5rem; white-space: pre-wrap;
+}
+
 p{
  text-align: justify;
 }
