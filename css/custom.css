@@ -5,6 +5,9 @@
     border-right: 1px solid #fdfdfd;
 }
 
+p{
+ text-align: justify;
+}
 .menu-item a {
     color: #eee;
     text-decoration: none;
