@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aşil; Seri Hızlı Ritmik ve Ölümcül"
+title: "Aşil; Çevik, Hızlı Ritmik ve Ölümcül"
 categories: [main, archive]
 img : "https://tozbulut.github.io/images/achilies_dark.png"
 kat: Sanat
@@ -34,7 +34,7 @@ Anam, gümüş ayaklı Thetis bana demişti:
 İki ayrı kader götürecek beni ölüme:
 burda kalır, savaşırsam Troya'nın çevresinde,
 tükenmez bir ün var, dönüş yok.
-Dönerserm yurduma sevigili baba toprağına
+Dönersem yurduma sevigili baba toprağına
 ünüm olmasa da çok yaşayacağım,
 ölüm öyle çabucak gelip çatmayacak.
 </div>
@@ -44,8 +44,7 @@ Aşil Truva'lıların şehrini almak için savaşmayı seçer. Böylelikle kader
 Sizce dikkate almalı mıyız?
 
 Ek:
-<div class="cerceve">
-Ilyada 1.1
+<div class="cerceve">Ilyada 1.1
 Söyle tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle.
 Acı üstüne acıyı Akhalara o kahreden öfke getirdi,
 ulu canlarını Hades'e attı nice yiğitlerin,
