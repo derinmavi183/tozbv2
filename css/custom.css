@@ -10,6 +10,11 @@
 }
 
 p{
+    font-family: Georgia,Times,serif;
+    color: #000;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
  
 }
 .menu-item a {
