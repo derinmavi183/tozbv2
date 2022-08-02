@@ -21,3 +21,5 @@ Masa Tablası Eni 80cm, Boyu 140cm (139.5), Kalınlığı ise 1.8cm. Beyaz mdf d
 Yan tarafındaki ufak derinliği ise 18cm. Uzunluğu 37 cm. yatayda 83cm. önce dışı ardından içi. yapılmış. 4 sunta kenarlardan birleştirilmiş. 
 4 gözü var. Altında metal siyah ayaklık var. İç 17,5 derinlik, 39.5 yatay, 15,5 yükseklik. 
 
+Işığın konumu da önemli.
+
