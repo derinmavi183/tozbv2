@@ -1,4 +1,5 @@
-Ofiste çalışan insanlar için rahat edecekleri masayı bulmak zor olabiliyor. Kısa bir süre önce rahat ettiğim bir masa keşfedince hemen boyutlarını not aldım.
+Kimi zaman aradığınız mobilyayı bulmak zor olabiliyor. Başka bir yerde görüyorsunuz deniyorsunuz beğeniyorsunuz ama daha sonradan aradığınızda bulamıyorsunuz. 
+Kısa bir süre önce rahat ettiğim bir masa keşfedince hemen boyutlarını not aldım.
 
 Sonrasında ise daha faklı bir şey yapmaya karar verdim. 
 
