@@ -12,3 +12,10 @@ https://www.tinkercad.com/dashboard
 
 
 SweetHome 3D
+
+Masa için mdf araştırmaya başladım. Orjinal masanın zaten malzemesi ço kaliyeli değil.
+
+Masa Tablası Eni 80cm, Boyu 140cm (139.5), Kalınlığı ise 1.8cm. Beyaz mdf denilen malzeme gibi görünüyor. Ortasında Her iki taraftan 45 cm olacak şekilde 50cm ve 11,5 cm yüksekliğinde bir boşluk var. Masanın yerden uzunluğu 72,5 cm. 
+
+Yan tarafındaki ufak itaplık ise 18cm  altında metal siyah ayaklık var. İç hami 
+
