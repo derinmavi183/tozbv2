@@ -1,4 +1,8 @@
-Lab için konu listesi:
+1. Research Material
+2. Possible Posts
+
+## Research Material
+
 - Martha Nussbaum - Wikipedia Page
 - Motivation - Wikipedia Page
 - Deontology - Wikipedia Page
@@ -20,3 +24,8 @@ Lab için konu listesi:
 - https://plato.stanford.edu/entries/rationalism-empiricism/
 - https://en.wikipedia.org/wiki/Empirical_evidence
 - Grammarly - How to write better?
+- https://en.wikipedia.org/wiki/Karl_Popper
+
+## Possible Posts
+
+
