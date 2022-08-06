@@ -1,0 +1,22 @@
+Lab için konu listesi:
+- Martha Nussbaum - Wikipedia Page
+- Motivation - Wikipedia Page
+- Deontology - Wikipedia Page
+- Antihumanism - Wikipedia Page
+- Ethics - Wikipedia Page
+- Feasibility Study - Wikipedia Page
+- Ursula K. Le Guin - Wikipedi (Kurgu)
+- Health belief model - Wikipedi
+- Case Study - 
+- Prototype - 
+- Technlogy Readiness Level
+- Klaus Schwab
+- Younger Dryas impact hypothesis
+- Transmission Control Protocol
+- Technology Demonstration - Vikipedia Page
+- Cognitive Psycology - Wikipedia
+- https://en.wikipedia.org/wiki/Hypothesis#Scientific_hypothesis
+- https://belmont.libguides.com/wiki/create
+- https://plato.stanford.edu/entries/rationalism-empiricism/
+- https://en.wikipedia.org/wiki/Empirical_evidence
+- Grammarly - How to write better?
