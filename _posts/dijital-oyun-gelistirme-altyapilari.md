@@ -9,6 +9,7 @@ TinkerCAD
 
 ### Karakter Dizayn
 
-# Autodesk Maya
-
-# Blender
+* Photoshop
+* 
+* Autodesk Maya
+* Blender
