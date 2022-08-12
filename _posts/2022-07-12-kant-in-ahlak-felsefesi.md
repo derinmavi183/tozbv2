@@ -7,9 +7,12 @@ kat: Felsefe
 permalink: kant-ahlak-felsefesi
 ---
 
-Kısa süre öncesinde Kant üzerine kendi küçük araştırmamı yaparken youtube üzerinde değerli bulduğum bir kaynak keşfettim. 
-Dr. Michael Sugrue Kant's Moral Philosophy videosu Kant üzerine bilgi sahibi olmak için çok güzel bir kaynak.Kısa sürede iyi bir fikir verdiğini düşünüyorum. 
-Bu nedenle videoyu çevirdim.
+Kısa bir süre önce Kant üzerine kendi küçük araştırmamı yaparken youtube üzerinde değerli bulduğum bir kaynak keşfettim.
+Dr. Michael Sugrue Kant'ın Ahlak Felsefesi videosu Kant hakkında bilgi edinmek için gayet uygun. 
+
+Sugrue'nun videosunun bazı eleştrilebilecek yönleri olsa da kısa sürede iyi bir fikir verdiğini düşünüyorum. Videonun Kant'a sınırlı bir perspektiften yaklaşıyor. Sugrue sanki Kant'ı kendince bir hikaye içerisinde anlatıyor. Devasa bir entelektüeli sınırlandırıyor. Kendi kurgusuna hapsediyor. Kant'ın sanki entelektüel yaşamı bu denli etkileyen bir figür olmaktan çıkıyor. 
+
+Öte yandan öne sürdüğü fikirler ve bir ilk giriş olarak oldukça faydalı buldum.
 
 <div style="/* border: 1px solid black; */padding: 10px;margin-bottom: 2.5rem;border-radius: 3px;background-color: #d1e7dd42;">
 Dr. Michael Sugrue Kant's Moral Philosophy videosundan çevirilmiştir. 
@@ -41,7 +44,7 @@ Buradan evrensel bir evrensel ahlaki yargı sistemi arama fikri doğdu. Bu Kant�
 
 Kant’ın üstüne aldığı iddialı bir görev. Ahlak Metafiziğinin Temellendirilmesi kantın moral teorisi üzerine kantın en ulaşılabilir kitaplarından biridir. Bir çok kitabı için bu söylenmesi zordur. Alman Felsefecilerin çoğu bu özelliği taşır.
 
-## Ahlakın Newton'u
+### Ahlakın Newton'u
 
 Newton mekaniğinin keşfi büyük bir atılımdı. Politika, felsefe, toplum, neyin doğru neyin yanlış olduğu ve bireyin ruh hali anlamında büyük değişim anlamına geliyordu. 
 
@@ -67,7 +70,7 @@ Eğer dünya uzay zaman içerisindeki olaylarsa o zaman özgür irade’den bahs
 
 Kant’ın önerisi evrensel bir yasadır. Her bir eylemin iyi mi kötü mü olduğunu rasyonel ahlaki ve özgür bir ajan için belirlenmesine olanak sağlayan bir yasa. Zaman ve mekandan bağımsız evrensel olarak doğru olan bu algoritma Çin’den İngiltere’ye, Ali’den Veli’ye aynıdır. Bugün doğru, yarın doğru sonsuza kadar doğru olacak bir ahlaki gerçeklik. Başka bir deyişle Kant ahlaki gerçekliğe idealizm ve mantık ile bir zırh örerek, argümanını anlayan her bir kişi için karşı konulmaz hale getirmek istemektedir.
 
-## Kategorik Doğru
+### Kategorik Doğru
 
 Kant nihai ahlaki görevi formüle eder. Buna kategorik emir adını verir. Kant Ahlak Metafiziğinin Temellendirilmesi adlı kitabının başında şöyle der:
 
