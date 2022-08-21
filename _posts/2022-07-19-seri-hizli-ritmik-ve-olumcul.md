@@ -55,7 +55,7 @@ korkun Zeus'un oğlu Apollon'dan, sayın onu.
 
 İlyada Akhilleus’un topuğundan vurulduğu ölümünü anlatmaz. Epik eser dokuz senelik bir savaşın elli bir gününü anlatan on kitaptan oluşur. Her bir kitabın kendince bir konu bütünlüğü barındırır. Hikaye eserin büyük kısmında ortalarda olmayan Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister. Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Gazabından tanrılar bile kaçamaz. Aşil tahmin edilemezliği ve yenilmezliği ile müthiş bir epik kahramandır. 
 
-Thetis'e danıştığında, bir tanrıça olan Thetis Aşil'e bir kaderini ilgilendiren bir seçim yapması gerektiğini açıklar. 
+Yaşağıdığı ikilemde annesi Thetis'e danıştığında, bir tanrıça olan Thetis Aşil'e kaderini ilgilendiren bir seçim yapması gerektiğini açıklar. 
 Daha sonra Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
 
 <div class="cerceve">Ilyada 9.410
@@ -63,7 +63,7 @@ Anam, gümüş ayaklı Thetis bana demişti:
 İki ayrı kader götürecek beni ölüme:
 burda kalır, savaşırsam Troya'nın çevresinde,
 tükenmez bir ün var, dönüş yok.
-Dönersem yurduma sevigili baba toprağına
+Dönersem yurduma sevgili baba toprağına
 ünüm olmasa da çok yaşayacağım,
 ölüm öyle çabucak gelip çatmayacak.
 </div>
