@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Stoa Düşüncesi"
+categories: [main, archive]
+kat: Sanat
+img : "https://tozbulut.github.io/images/still_alive23.png"
+permalink: still-alive
+---
+
 Karşılıklı konuşurken kimi zaman bazı insanları sızlanır halde bulabiliyorsunuz.
 İnsanların bu tür eğilimlere sahip olması kabul edilebilir. Ancak bu davranışın stoacılıkla bağdaşmayacağını söyleyebilirsiniz.
 Felsefeyi ne kadar sıkıcı bulsak da gündelik yaşamımızda sürekli felsefi sınavlardan geçeriz ve sonuç olacak mecburen bir felsefe ortaya koyarız.
@@ -9,7 +18,7 @@ Peki kendimizin efendisi olmak da ne demek? Bu sözlere bugün ihtiyacımız var
 
 Stoacılığın kökeni milattan önce 333 ve 262 yılları arasında yaşamış Zeno'ya dayandırılır. Kıbrıs doğumlu bu felsefeci Atina'nın memer sutunlarla kaplı Stoa'ında ders veriyordu. Bu derslerin yankısı ölümünden sonra da sürmekle kalmadı. Önce tüm helen coğrafyasını etkiledi Roma'yı etkiledi ardından Hıristiyanlığa nufuz etti, Stoa çağlar boyu tekrar tekrar dirildi. Bugün de bir bakıma aslında yeniden dirilmektedir. Enchidrion discourses ve meditations gibi ana kitapları batı kültür hayatında derin izler bıraktıklarından kendilerine ait bir hikayeleri vardır. Rönesans'da Aydınlanma'da etkili olmuşlardır.
 
-Stoa'nın kelime anlamı koridor şeklindeki verandadır. Takipçilerinin halkla yakın olmak için bu binayı kullandıkları bina öğretiye adını vermiştir. Stoa'ya adını veren taş bina Atina'nın merkezinde yer alır. Atina kentindeki stoanın uzunluğu 115 genişliği ise 20 metredir. İçerisinde 134 tane Doric stilde mermer kolon ikili kolon olarak sıralanmıştır. Doğa ile kontrast oluşturacak şekilde düz sade ayrılmış bu mekan tıpkı dönemin diğer mimarisi gibi insan medeniyetinin refahının düzeninin bir sembolü olarak görülür. Mermer bir sütun, zevke, kedere veya neşeye kayıtsız, duygularını bastıran sert bir ruha sahip olmak ile sıklıkla ilişkendirilir.
+Stoa'nın kelime anlamı koridor şeklindeki verandadır. Atina'da Agora içerisinde yer alan bu bina öğretiye adını vermiştir. Merkezinde yer alan Stoa'nın uzunluğu 115 genişliği ise 20 metredir. İçerisinde 134 tane Doric stilde mermer kolon ikili kolon olarak sıralanmıştır. Doğa ile kontrast oluşturacak şekilde düz sade ayrılmış bu mekan tıpkı dönemin diğer mimarisi gibi insan medeniyetinin refahının düzeninin bir sembolü olarak görülür. Mermer bir sütun, zevke, kedere veya neşeye kayıtsız, duygularını bastıran sert bir ruha sahip olmak ile sıklıkla ilişkendirilir.
 
 Stoacılık tarihçiler tarafından üç aşamaya bölünüyor. Erken stoa Zeno'dan Antipater'e, orta stoa Panateus ve Posidonius'a ve son olarak geç stoa Musonius Rufus, Seneca, Epictetus ve Marcus Aurelius'a uzanır. Özellikle üçüncü dönemin yapıtları bugün bildiğimiz anlamda Stoacılığı tanımlar. Seneca ve Cicero gibi ünlü düşünürlerin eserlerinde Stoa'nın izlerini görmek mümkün olsa da akla gelen iki isim Epiktetos ve Marcus Aurelius'dur. Denizli Pamukkale doğumlu olan Epiktetos'un günümüze ulaşan iki eseri Sohbetler (Discourses) ve El Kitabı (Enchiridion). Enchiridion öğrencisi Arian tarafından kaleme alınan ve Epiktetos'un öğrencilerinin devamlı yanlarında bulundurdukları söylenen kitap yalnızca bir veya iki paragraflık 53 kısa bölümden oluşmaktadır. İçeriğinin büyük kısmı Sohbetler'den alınmış olsa da bir özetten ziyade pratik kuralları barındırır. Bu anlamda belki de tarihin ilk kişisel gelişim kitabı olan El Kitabı metafizik kısmı dışarıda bırakarak felsefeyi günlük hayata uygulama pratiklerini ele alır.
 
@@ -83,3 +92,4 @@ Bazı şeyler kontrolümüz altındadır. Bazı şeyler ise kontrolümüz dış�
 
 Stoacılığın tarihi kaynakları Epictetus'un iki kitabı Enchiridion, Discourses ve Marcus Aurelius'un günlük şeklinde kaleme alınmış kitabı Meditations. 
 Aynı zamanda Seneca ve Aynı zamanda
+https://www.youtube.com/watch?v=Yhn1Fe8cT0Q
