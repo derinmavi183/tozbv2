@@ -75,8 +75,7 @@ Her bir kitap kendi içerisinde bir konu bütünlüğü barındırır.
 Hikaye eserin büyük kısmında ortalarda olmayan Aşil’in Truva’yı işgale gelen Akha kuvvetlerinin komutanı Agamemnon ile tartışmasıyla başlar. 
 Aşil yaşadığı onur kırıcı olayın ardından uzunca bir süre tarafsız kalır. Annesi Thetis'e döner. Savaşı bırakıp geri dönmek ister. 
 Sonradan ortaya çıkar ortalığı kan gölüne döndürür. Gazabından tanrılar bile kaçamaz. 
-
-Epik kahraman olarak ikilemi savaşın kötü yanını temsil eder. Savaş nedir? En kötü şey. Yunanlar da bunun farkındadır. Ama gerekmiştir gerekecektir. Aşil savaşın sembolü olarak örnek bir Yunanlı gibi çocuklarını büyütüp mutlu aile olamaz. Daha da ötesi isteyemez de. Hayalinin, bir aile ve nesillere aktarılan bereket ile huzur içinde yaşamanın alternatifidir. Acımasız ve ölümcül olmak zorundadır.
+Epik bir kahraman olarak ikilemi "savaşın kötü yanını" temsil eder. Savaş nedir? En kötü şey. Yunanlar da bunun farkındadır. Aşil savaşın sembolü olarak örnek bir Yunanlı gibi çocuklarını büyütüp mutlu aile olamaz. Daha da ötesi isteyemez de. Hayalinin, bir aile ve nesillere aktarılan bereket ile huzur içinde yaşamanın alternatifi olmalıdır. Vahşi çevik hızlı ve ritmik olmak, yalnızca tanrılara atfedildiği kadar acımasız ve ölümcül olmak zorundadır.
 
 Yaşağıdığı ikilemde annesi Thetis'e danıştığında, bir tanrıça olan Thetis Aşil'e kaderini ilgilendiren bir seçim yapması gerektiğini söyler. 
 Aşil'in kaderini mühürleyecek ikilem kendi ağzından aktarılır.
