@@ -1,4 +1,4 @@
-* Some of his views are irritable other are very good. 
+* Some of his views are irritable other are very good. Mostly political and religious connections are not very good.
 
 * Peterson is too much thinking with religious terms. The recent increase in his tandency verifies that he has actually re-explains some hard-to-accept religious ideas which making them too ancetable..
 
