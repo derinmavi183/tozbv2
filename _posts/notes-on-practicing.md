@@ -1,4 +1,4 @@
-Goals defined and goals accomplished.
+* Goals defined and goals accomplished.
 Knowing your strengts and weaknesses.
   - Tobacco, unhealty food., obsession over social media.
 Removing Temptation
