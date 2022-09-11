@@ -1,0 +1,67 @@
+Aslında bir telefondan yapmak mümkün fakat ben ufak bir yatırımın özellikle ses konusunda bir fark yaratacağını düşündüğümden böyle bir araştırmaya giriştim.
+YouTube üzerinde birden fazla kaynaktan faydalandım. Özellikle şu video çok faydalı oldu. 
+
+## Fiziksel Kurulumlar
+
+## 1. Bilgisayar
+
+Bir çoğumuz aslında bir bilgisayara sahibiz. PC, MAC, Desktop, Laptop aslına bakarsanız herhangi bir modern cihaz yeterli olacaktır.
+
+Kayıt yazılımımızı bu cihaz üzerinde çalıştırıyor olacaksınız. Bu şekilde podcastlarınızı kaydedebilirsiniz.
+
+## 2. Mikrofon
+
+Bir çok mikrofon çok pahalı ve ihtiyacımız olmayan bazı özellikler içeriyor.  İlk tercihimizi USB ya da XLR arasında yapıyoruz. Yİne dynamic ve condenser arasında karar vereceğiz.
+
+USB Mikrofonlar: USB mikrofonlar örneğin Audito Technica ATR 2100x gibi mikrofonlar bu tarz mikrofonları direkt olarak bilgisayarınızın USB portundan bağlayabiliyorsunuz.
+Eğer USB kullanırsak sesimizi arttırmak gibi direkt olarak bilgisayardan kayıt yapmak için özelliklere sahip. Bu mikrofonlarda Audio Interface denilen ayrı bir kutuya ihtiyacımız yok.
+Mikrofon ve PC arasındaki ayrı bir kutu. XLR mikrofonlar bu özelliğe ihtiyaç duyuyor.
+
+XLR Mikrofonlar: XLR mikrofon profesyonel amaçlı çok kullanılıyor. Rode M1 örnek verilebilir. Bahsettiğimiz gibi ayrı bir kutuya ihtiyaç duyuyor. Biraz daha pahalı ama çok daha esneklik sağlıyor.
+Mikrofonlar daha ucuz. Biraz daha kaliteli ses kalitesi verdikleri söylenebilir. Bu nedenle XLR mikrofon seçmek daha doğru.
+
+Bir diğer fark ise Dynamic ve COndenser arasındaki fark genellikle ihmal edilen bu fark aslında oldukça önemli. Dinamik mikrofon daha sıcak, yakın bir hissiyat verir. Arkadaki oda sesini fazla almaz.
+Stüdyo ortamında değil de normal bir odada yapılmış bir kayıt için daha uygundur. 
+
+Öte yandan condenser mikrofonlar ise ( Yeti nano ya da Audo Tecnica 2020 örnek verilebilir.) oda sesini çok alır. 
+Eğer odanızda dolaplar fayans gibi düzeltilmemiş bir yankı yüzeyi varsa ya da yan odada bir ses varsa onu da alır. 
+Daha detaylıdır bu enstrümanlar ve bazı vokaller için önemlidir ama eğer profesyonel bir studyoda değilseniz dinamik mikrofon kullanın.
+
+Telefondan ve kameraya monte edilmiş mikrofonlar kötü bir ses verir. Bu örnekler zaten kaçınmaya çalıştığımız durumu oluşturuyor. Özellikle düz duvarların olduğu geniş bir olaysa çok fazla yankı olacaktır.
+
+## 3. Audio Interface
+
+XLR mikrofon kullanıyorsanız ya audio interface'e, mixer'e ya da portable recorder'a ihtiyaç duyacaksınız. Hepsi temelde aynı şeyi yapar. 
+Aslında hepsi temelde aynı şeyi yapar mikrofona giden sesinizi yani analog sinyali dijital sinyale çevirir. Bazı ekstra özellikler içerir. Kulaklık çıkışı. 
+Birden fazla input. Scarlet serisi ya da Presonic daha bütçe için tercih edilebilir. Bazıları mixer tercih edebilir. Ama bizim durumumuz için pek tercih edilebilir değil.
+Learning curvei yüksek, kullanımı daha fazla iş gerektiriyor. 
+
+Zoom gibi taşınabilir bir recorder da iyi bir opsiyon olabilir. Özellikle yolda kullanmak gibi bir ihtiyacınız varsa. SD karta kayıt yapabilir.
+Ama bizim durumda audio interface kullanmak lazım.
+
+## 4. Mikrofon Stand'i ya da Mount
+
+Desk standlar iyi bir opsiyon olabilir. Boom om olabilir. Geleneksel yerde duran geleneksel standlari kullanabilirsiniz daha çoktur. 
+En iyi opsiyon muhtemelen bir boom om masanıza click olan. Mikrofonu titremelerden izole eder. Burada amaç mikrofonu titretmemektir. 
+Bu da ortamnıza bağlıdır.
+
+## 5. Pop Filter
+
+Bunun kullanılması iyidir. Sünger toplar ya da filtre şeklinde olanlar olabilir. Bu metal kısmın üstüne geçirilebilir. Çok büyük fark yaratır.
+Ucuzdur özellikle kullanılması tavsiye edilir. 
+
+## 6. Kulaklık
+
+Kulaklık sayesinde sesi hoparlorden vermemiş olursunuz. Aynı zamanda kendi sesinizi duymanız fark yaratır.
+Kendi sesinizi duymak isteyebilirsiniz FL loop.
+
+# Oda
+
+Kumaş çok olan küçük yumuşak halı ve yatak benzeri yumuşak mobilyaların olması iyiidr. Bu yankıyı azaltır ve daha profesyonel bir ortam oluşturur. 
+Örneğin mutfakta çok problem çıkartır.
+
+Condensed mikrofon no pop filter ve yankı yapan bir odadaysanız çok büyük fark görülecektir. Bir de telefonla kayıt ediyorsanız ço kdaha beterdir.
+
+## Kayıt Aşaması
+
+Sesinizi kayıt edeceğiniz yazılım ile başlayalım. 
