@@ -18,7 +18,7 @@ Vahşi, çevik, hızlı ve ritmik.
 
 Say, eserin Aşil bölümünde kahramanın bu özelliklerini dikkate alarak müziğe yansıtmayı seçmiş. Ayrıca Aşil'in öfkesini İlyada'yı referans vererek şu sözlerle özetliyor: İlyada’nın arka kısmında, Aşil’in öldürdüklerinin listesi üç sayfa uzunluğunda verilir. Liste küçük harfle ve yan yana yazılmıştır. Anlatıya göre bunlar sadece Homeros’un bildiği yüksek rütbeli komutanlar ve prenslerdir. Muhtemelen bir o kadar da düşük rütbeli komutan ve asker vardı. 
 
-İzmir’li yazar Homeros’un Ilyada destanının ana kahramanı Aşil'i bugün Çin’den Hindistan’a, Arjantin’den Hollanda’ya tüm insanlık biliyor 
+Ilyada destanının ana kahramanı Aşil'i bugün Çin’den Hindistan’a, Arjantin’den Hollanda’ya tüm insanlık biliyor 
 ve tüm dünyada öğrenciler insan vücudunun en güçlü tentonunu öğrenmek istediklerinde “Aşil” ismiyle karşılaşıyorlar.
 
 Aşil, Truva savaşının kahramanı. Kendisi gibi kral olan babası Peleus ve tanrıça Thetis’in oğlu. 
@@ -34,14 +34,14 @@ Kimi zaman akıllarına erkeklerden hoşlanmayan ve banyo yaparken kendini göre
 Genç bir asker savaş alanında gümbürdeyen kalkan sesleri arasında korkuya kapıldığında Ilyada’nın ilk iki satırını: Aşil’i ve öfkesini düşündü. 
 Aşil onun sesi oldu. Tanrıların türlü oyunlarına, yaşamın geçiciliğine ve kralın adaletsizliğine karşı o da Aşil gibi öfkelendi.
 
-Ilyada ve Odesa destanlar Antik Yunan toplumu için ideal bir çocukluk olacak ki bilimi doğurdu. 
+Ilyada ve Odesa destanları Antik Yunan toplumu için ideal bir çocukluk olacak ki bilimi doğurdu. 
 Bugün ise eseri ilkel görüp, romantizme atfeden, Ilyada'ya mesafe ile yakşalan bu bakış eserin anıtsal etkisini azaltmıyor. 
 Bugün yaşadığımız dünya o günlerden çok daha farklı. 
 Teknoloji ile çevrili, amaçları belli, görece güvenli hayatlarımızda hayatta kalma tehditi altında değiliz. 
 Hatalarımız ölümümüz demek değil, vahşi hayvanlarla dövüşmüyoruz, açlık ve düşmanlardan kaçmak gibi dertlerimiz yok.
 Tüm hayatta kalma dürtülerimiz, yaşam amaçlarımız sanallaşırken bu sanallık bizi hissizleştiriyor, risk almıyoruz ve kimi zaman anlamı - müzlerin şarkısını - yakalamakta zorlanıyoruz. 
 Ilyada’nın ise anlam konusunda en ufak bir tereddütü yok. 
-Bugün belki de bu kadar etkileyici bu kadar kanlı canlı olmasının sebebi bu.
+Bugün belki de bu kadar etkileyici, bu kadar kanlı canlı olmasının sebebi bu.
 
 <div class="cerceve">Ilyada 1.1
 Söyle tanrıça, Peleusoğlu Akhilleus'un öfkesini söyle.
