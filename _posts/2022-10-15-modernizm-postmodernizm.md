@@ -1,5 +1,8 @@
 Modernizm ve Posmodernizm
 
+
+Postmodernizm ve modernizm. Çoğu zaman bireysel oluyor.
+
 Modernizm
 * Aydınlanma Çağı ile beraber gelen zihinsel dönüşümün ortaya çıkardığı ideoloji, yaşam biçimidir.
 * Humanizm, sekülerizm ve demokrasi üzerine kurulu. 
@@ -15,7 +18,7 @@ Modernizm
 Postmodernizm
 * Düzenliliği, mantık ve simetriyi sevmez. Çelişki ve karışıklılıkla barışıktır.
 * Modernliği oluşturan ve batı medeniyetinin ürünü olan değer ve kurallara karşı çıkar.
-* Faydacı değildir bireyci değildir. Evrenselci değildir.
+* Faydacı değildir bireyci değildir. Evrensel doğrucu değildir.
 * İlerleme düşüncesi doğru değil, bugün geçmişten, modern modern öncesinden, kent yaşam stili köy yaşam stilinden üstün değil.
 * Demokrasi şüpheyle bakar. Eklektiktir her türlü bilginin insanlığa katkı sağlayabileceğini kabul eder.
 * Anti-pozitivist. Yorumlamacıdır.
@@ -24,4 +27,10 @@ Postmodernizm
 * 100 yıldır sanattan mimari, siyaset, sosyoloji, edebiyat, ekonomide kullanılır.
 * 80'den sonra yaygın olarak kullanılmaya başlandı.
 * Modernist olmayan düşünce biçimlerine kucak açar.
-* Bürokratik değil post bürokratik. Finans ve hammadde yer değiştirilebilir. Esnek çalışma sanal örgütler veteda
+* Bürokratik değil post bürokratik. Finans ve hammadde yer değiştirilebilir. Esnek çalışma sanal örgütler.
+* Akademide bilim karşıtı görüşlere ve batıl inançlara sebebiyet varmiştir.
+
+Yorumlar
+* Postmodernizm herşeye kural koymamayı aslında öngörüyor. Kurallar kimi zaman düşünce biçimlerini kitleyebilir.
+* Fakat kimi sağlam fikirlere ihtiyaç var. Özellikle kaynakların sınırlı olduğu kritik tercihlerde.
+* Felsefede Modern dönem kabaca 1600'den 1800'e kadar uzanır. Temelde üç bölüme ayırabiliriz. Descartes, Leibniz ve Spinoza (Rasyonalistler); Locke, Berkeley ve Hume (Ampiristler) ve Kant.
